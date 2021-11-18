@@ -24,6 +24,7 @@ def main():
                     for characters in word:          
                             page.fill('div#test-input', characters)
                             page.keyboard.press(' ')
+                            #time.sleep(0.1)
                             
                 word = []
                     
