@@ -1,3 +1,3 @@
 # TypingBots
-
-python3 -m pip install -r requirments.txt to get them working
+-- Install the requirments --
+python3 -m pip install -r requirments.txt
