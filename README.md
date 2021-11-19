@@ -11,5 +11,7 @@ I made these 2 bots while playing around with playwright and BeautifulSoup
 <br>
 <code>python3 -m pip install -r requirments.txt</code>
 <br>
-<strong> Then <code>python3 KeyBr.py</code> for https://www.keybr.com/multiplayer or <code>python3 LiveChat.py</code> for https://www.livechat.com/typing-speed-test/#/</strong>
+<code>python3 KeyBr.py</code> <strong>for https://www.keybr.com/multiplayer</strong>
+<br>
+<code>python3 LiveChat.py</code> <strong>for https://www.livechat.com/typing-speed-test/#/</strong>
 
