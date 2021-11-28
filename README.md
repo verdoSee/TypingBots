@@ -14,4 +14,6 @@ I made these 2 bots while playing around with playwright and BeautifulSoup
 <code>python3 KeyBr.py</code> <strong>for https://www.keybr.com/multiplayer</strong>
 <br>
 <code>python3 LiveChat.py</code> <strong>for https://www.livechat.com/typing-speed-test/#/</strong>
+#Status
+The bot for https://www.keybr.com/multiplayer got pached, they made some attributes (e.g classes) dynamic. 
 
