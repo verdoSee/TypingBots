@@ -1,5 +1,3 @@
-# TypingBots
-I made these 2 bots while playing around with playwright and BeautifulSoup
 # Installation
 <code>git clone https://github.com/verdoSee/TypingBots.git</code>
 <br>
